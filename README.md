@@ -1,6 +1,6 @@
 # Deep Learning-Based Adaptive Joint Source-Channel Coding using Hypernetwork
 
-This repository is the PyTorch implementation of Hyper-AJSCC, as proposed in the paper [My Paper Title](https://arxiv.org/abs/2030.12345).
+This repository is the PyTorch implementation of Hyper-AJSCC, as proposed in the paper [My Paper Title](https://arxiv.org/abs/).
 
 ## Requirements
 
